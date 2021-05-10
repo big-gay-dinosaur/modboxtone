@@ -363,7 +363,7 @@ var beepbox;
     Config.keyTransposes = [23,  22,   21,  20,   19,  18,   17,  16,  15,   14,  13,   12 ];
     Config.mixNames =      ["Type A (B & S)", "Type B (M)", "Type C"];
     Config.sampleRateNames =     ["44100kHz", "48000kHz", "default", "×4", "×2", "÷2", "÷4", "÷8", "÷16"];
-    Config.tempoSteps = 99;
+    Config.tempoSteps = 199;
     Config.reverbRange = 19;
     Config.blendRange = 4;
     Config.riffRange = 11;
